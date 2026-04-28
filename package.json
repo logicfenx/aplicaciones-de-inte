@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/aplicaciones-de-inte",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a aplicaciones-de-inte",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/aplicaciones-de-inte.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/aplicaciones-inteligencia-artificial-seguridad-vehicular/"
+    },
+    "homepage": "https://bitcu.co/aplicaciones-inteligencia-artificial-seguridad-vehicular/"
+}
